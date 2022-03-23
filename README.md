@@ -1,4 +1,4 @@
-# CTIS164 Project 4 Protecting The Earth
+# CTIS164 Project 4 - Protecting The Earth
 
 Fourth project for CTIS164 Technical Mathematics with Programming course.
 
